@@ -1,5 +1,7 @@
 == NowPlaying
 
+{<img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/jcquarto/nowplaying">}[https://gitter.im/jcquarto/nowplaying?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge]
+
 This is a simple Rails app which watches
 what I'm djaying when I use Djay (from Algoriddm) and
 updates a web page with a song history.
